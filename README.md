@@ -1,4 +1,4 @@
-House Package Prediction - Classification_Model.ipynb
+# House Package Prediction - Classification_Model.ipynb
 Project Overview
 Trips & Travel.Com aims to grow its customer base by offering tailored travel packages. Currently, the company offers five packages: Basic, Standard, Deluxe, Super Deluxe, and King. However, a random approach in customer outreach resulted in high marketing costs last year, with only 18% of customers purchasing a package.
 
